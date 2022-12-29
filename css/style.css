@@ -2539,7 +2539,7 @@ header .member-actions{
   text-transform: uppercase;
   transition: 0.5s;
   background-size: 10% auto;
-  color: rgb(237, 60, 60);            
+  color: #b48e1c;          
   box-shadow: 0 0 20px rgb(60, 58, 58);
   border-radius: 10px;
   display: block;
@@ -2551,6 +2551,28 @@ header .member-actions{
 
 .btn-grad:hover {
   background-position: right; /* change the direction of the change here */
-  color: rgb(155, 43, 43);
+  color: #e8ca6f;
   text-decoration: none;
+}
+
+.btn-grad:active {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-animated {
+  animation: moveInBottom 5s ease-out;
+  animation-fill-mode: backwards;
+}
+
+@keyframes moveInBottom {
+  0% {
+      opacity: 0;
+      transform: translateY(30px);
+  }
+
+  100% {
+      opacity: 1;
+      transform: translateY(0px);
+  }
 }
