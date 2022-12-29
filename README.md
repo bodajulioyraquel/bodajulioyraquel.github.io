@@ -18,7 +18,6 @@
 - Save google calendar
 - Event date
 - Countdown to the date
-- Music from youtube API
 
 
 ### Our big thanks to :
