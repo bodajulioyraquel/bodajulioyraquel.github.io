@@ -439,7 +439,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 }
 #fh5co-counter .event-wrap h3,
@@ -1352,10 +1352,10 @@ form label {
 }
 
 .fh5co-heading {
-  margin-bottom: 5em;
+  margin-bottom: 0em;
 }
 .fh5co-heading.fh5co-heading-sm {
-  margin-bottom: 2em;
+  margin-bottom: 0em;
 }
 .fh5co-heading h2 {
   font-size: 60px;
@@ -2576,4 +2576,12 @@ header .member-actions{
       opacity: 1;
       transform: translateY(0px);
   }
+}
+
+.gray{
+  opacity: 1;
+}
+
+.gray:hover {
+  filter: grayscale(80%);
 }
