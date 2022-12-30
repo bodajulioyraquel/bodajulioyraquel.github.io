@@ -1094,7 +1094,7 @@ form label {
   -ms-border-radius: 50%;
   border-radius: 50%;
   position: relative;
-  animation: pulse 1s ease infinite;
+  animation: pulse 5s ease infinite;
 }
 
 @keyframes pulse {
@@ -1141,7 +1141,7 @@ form label {
 #fh5co-event,
 #fh5co-gallery,
 .fh5co-section {
-  padding: 5em 0;
+  padding: 1em 0;
   clear: both;
 }
 
