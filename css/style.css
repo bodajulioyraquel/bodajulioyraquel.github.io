@@ -494,7 +494,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 4px;
 }
 #fh5co-header .couple-main {
-  width: 300px;
+  width: 400px;
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .couple-main {
@@ -542,7 +542,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 80px;
 }
 #overlay .content .couple-main {
-  width: 200px;
+  width: 400px;
 }
 #overlay .content h1 {
   font-size: 48px;
