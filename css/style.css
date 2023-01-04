@@ -2315,6 +2315,7 @@ fadeIn {  from {
 @media (max-width:768px) {
   .flower-1 {
     height: 5%;
+    bottom: -30px;
   }
   .flower-2-left{
     left: -20px;
