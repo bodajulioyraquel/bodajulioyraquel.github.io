@@ -2601,3 +2601,21 @@ header .member-actions{
   }
 
 }
+
+div.trimstar {
+  max-width: 23px;
+  overflow: hidden;
+  display:inline-block;
+}
+
+div.trimstar2 {
+  max-width: 13px;
+  overflow: hidden;
+  display:inline-block;
+}
+
+div.trimstar1 {
+  max-width: 5px;
+  overflow: hidden;
+  display:inline-block;
+}
