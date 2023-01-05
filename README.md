@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
+  <a href="https://bodajulioyraquel.github.io">
     <img src="images/myImages/novios.png" alt="Logo" width="120" height="120">
   </a>
 
