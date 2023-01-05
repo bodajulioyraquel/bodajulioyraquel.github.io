@@ -937,7 +937,6 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   top: 0.05em;
   font-family: "icomoon";
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -1468,9 +1467,6 @@ form label {
 #fh5co-testimonial .list-group .name{
   font-weight: bold;
 }
-#fh5co-testimonial #button-send{
-  /*margin-top: 25px;*/
-}
 
 .feature-left {
   top:9px;
@@ -1674,7 +1670,6 @@ form label {
   position: absolute;
   right: 0px;
   font-family: "icomoon";
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
