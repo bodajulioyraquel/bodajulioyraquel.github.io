@@ -14,7 +14,7 @@
 </div>
 
 ## Web link
-[RaquelyJuliWedding](bodajulioyraquel.github.io)
+[RaquelyJuliWedding](https://bodajulioyraquel.github.io)
 
 ## Features
 - Info wedding
